@@ -1,0 +1,714 @@
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\EntityFramework.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.pdb
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\EntityFramework.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojAssemblyReference.cache
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CopyComplete
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojAssemblyReference.cache
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\EntityFramework.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.pdb
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\EntityFramework.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CopyComplete
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\EntityFramework.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.pdb
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\EntityFramework.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojAssemblyReference.cache
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CopyComplete
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csc.exe.config
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csc.rsp
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csi.exe.config
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\csi.rsp
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.AppContext.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Console.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Compression.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Claims.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.ValueTuple.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\vbc.exe.config
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\vbc.rsp
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll.config
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.Admin.pdb
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\EntityFramework.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Razor.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.BLL.dll.config
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.pdb
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\IKAPP.DAL.dll.config
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\EntityFramework.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\EntityFramework.SqlServer.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Razor.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Webpages.Razor.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Helpers.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\bin\System.Web.Mvc.xml
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csprojAssemblyReference.cache
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.csproj.CopyComplete
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.dll
+C:\Users\TURAN\Desktop\IKAPP12122020\IKAPP\IKAPP\IKAPP.Admin\obj\Debug\IKAPP.Admin.pdb

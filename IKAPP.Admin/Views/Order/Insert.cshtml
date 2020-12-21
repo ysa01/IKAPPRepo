@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewBag.Title = "Insert";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <form class="form-horizontal" action="/Order/Insert" method="post">
+
+                <div class="card-body">
+                    <h4 class="card-title">Sipariş Ekleme Sayfası</h4>
+                    <span id="CustomerStatus" hidden></span>
+                    <div class="form-group row">
+                        <label for="fname" class="col-1 control-label col-form-label">Müşteri Telefonu :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="Phone" id="searchPhone" placeholder="Müşteri Telefonu Giriniz..." required>
+                        </div>
+                        <a href="#" onclick="CustomerSearch()" class="btn btn-warning"><i class="fa fa-search"></i> Müşteri Bul</a>
+                    </div>
+                    <input type="text" name="CustomerID" id="CustomerID" hidden value="" />
+                    <div class="form-group row">
+                        <label for="fname" class="col-1 control-label col-form-label">Müşteri Adı - Soyadı :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="CustomerName" id="CustomerNameLast" placeholder="Müşteri Adı Soyadı Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lname" class="col-1 control-label col-form-label">Müşteri Telefon :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="Phone" id="Phone" placeholder="Müşteri Telefonu Giriniz..." required>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="email1" class="col-1 control-label col-form-label">Müşteri Email :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="Email" id="Email" placeholder="Müşteri Email Adresi Giriniz..." required>
+                        </div>
+                    </div>
+                    <hr />
+                    <span id="StockStatus" hidden></span>
+                    <div class="form-group row">
+                        <label for="fname" class="col-1 control-label col-form-label">Ürün Barkodu :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="Barcode" id="productBarcode" placeholder="Ürün Barkodu Giriniz..." required>
+                        </div>
+                        <a href="#" class="btn btn-warning" onclick="BarcodeSearch()"><i class="fa fa-search"></i> Ürün Bul</a>
+                    </div>
+                    <div class="form-group row">
+                        <label for="fname" class="col-1 control-label col-form-label">Ürün Adı :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="ProductName" id="ProductName" placeholder="Ürün Adı Giriniz..." required>
+                        </div>
+                    </div>
+                    <input type="text" name="ProductID" id="ProductID" hidden value="" />
+                    <div class="form-group row">
+                        <label for="fname" class="col-1 control-label col-form-label">Kategori Adı :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="CategoryID" id="CategoryName" placeholder="Kategori Adı Giriniz..." disabled>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lname" class="col-1 control-label col-form-label">Satış Fiyatı :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="Price" id="SellPrice" placeholder="Satış Fiyatı Giriniz..." required>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="email1" class="col-1 control-label col-form-label">Stok Adedi :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="Stock" id="Stock" placeholder="Stok Adedi Giriniz..." disabled>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="email1" class="col-1 control-label col-form-label">Satış Adedi :</label>
+                        <div class="col-4">
+                            <input type="text" class="form-control" name="Piece" id="Adet" placeholder="Satılacak Adet Giriniz..." >
+                        </div>
+                    </div>
+                    <div class="border-top">
+                        <div class="card-body">
+                            <button type="submit" id="kaydet" disabled class="btn btn-success"><i class="fa fa-plus"></i> Ekle</button>
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+        </form>
+    </div>
+</div>
+</div>

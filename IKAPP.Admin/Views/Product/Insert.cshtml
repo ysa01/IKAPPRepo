@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Insert";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+@model List<IKAPP.DAL.DB.Category>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <form class="form-horizontal" action="/Product/Insert" method="post">
+                <div class="card-body">
+                    <h4 class="card-title">Ürün Ekleme Sayfası</h4>
+                    <div class="form-group row">
+                        <label for="fname" class="col-sm-3 text-right control-label col-form-label">Kategori :</label>
+                        <div class="col-md-9">
+                            <select class="select2 form-control custom-select" style="width: 100%; height:36px;" name="CategoryID">
+                                @foreach (var item in Model)
+                                {
+                                    <option value="@item.ID">@item.CategoryName</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="fname" class="col-sm-3 text-right control-label col-form-label">Ürün Adı :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="ProductName" id="fname" placeholder="Ürün Adı Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lname" class="col-sm-3 text-right control-label col-form-label">Satış Fiyatı :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="SellPrice" id="lname" placeholder="Satış Fiyatı Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lname" class="col-sm-3 text-right control-label col-form-label">Alış Fiyatı :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="BuyPrice" id="lname" placeholder="Alış Fiyatı Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="email1" class="col-sm-3 text-right control-label col-form-label">Stok Adedi :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="Stock" id="email1" placeholder="Stok Adedi Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="cono1" class="col-sm-3 text-right control-label col-form-label">Açıklama :</label>
+                        <div class="col-sm-9">
+                            <textarea class="form-control" placeholder="Açıklama Bilgisi Giriniz..." name="Description" required></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="border-top">
+                    <div class="card-body">
+                        <button type="submit" class="btn btn-success"><i class="fa fa-plus"></i> Ekle</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

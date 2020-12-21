@@ -1,0 +1,101 @@
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\mvcders1\mvcders1\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.pdb
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll.config
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\mvcders2\mvcders1\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP08112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.pdb
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll.config
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.dll
+C:\Users\ARIBILGI\Desktop\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.pdb
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll.config
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csprojAssemblyReference.cache
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CopyComplete
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP15112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.pdb
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll.config
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csprojAssemblyReference.cache
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CopyComplete
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP 28112020\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.BLL.pdb
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.pdb
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\IKAPP.DAL.dll.config
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csprojAssemblyReference.cache
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.csproj.CopyComplete
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.dll
+C:\Users\TURAN\Desktop\IKAPP\IKAPP\IKAPP.BLL\obj\Debug\IKAPP.BLL.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKAPP.Admin", "IKAPP.Admin\IKAPP.Admin.csproj", "{28590E0D-1AC1-4E70-8EFA-180FCD46410A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKAPP.DAL", "IKAPP.DAL\IKAPP.DAL.csproj", "{3BE167F9-683E-457F-B759-D71A99CD9FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKAPP.BLL", "IKAPP.BLL\IKAPP.BLL.csproj", "{50CF4C49-7D3E-480B-8548-9291515615E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28590E0D-1AC1-4E70-8EFA-180FCD46410A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28590E0D-1AC1-4E70-8EFA-180FCD46410A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28590E0D-1AC1-4E70-8EFA-180FCD46410A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28590E0D-1AC1-4E70-8EFA-180FCD46410A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE167F9-683E-457F-B759-D71A99CD9FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE167F9-683E-457F-B759-D71A99CD9FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE167F9-683E-457F-B759-D71A99CD9FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE167F9-683E-457F-B759-D71A99CD9FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CF4C49-7D3E-480B-8548-9291515615E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CF4C49-7D3E-480B-8548-9291515615E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CF4C49-7D3E-480B-8548-9291515615E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CF4C49-7D3E-480B-8548-9291515615E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A614E51D-67A0-4D71-B98C-B185B142795D}
+	EndGlobalSection
+EndGlobal

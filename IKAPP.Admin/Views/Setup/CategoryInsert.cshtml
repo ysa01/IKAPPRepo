@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "CategoryInsert";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <form class="form-horizontal" action="/Setup/CategoryInsert" method="post">
+                <div class="card-body">
+                    <h4 class="card-title">Kategori Ekleme Sayfası</h4>
+                    <div class="form-group row">
+                        <label for="fname" class="col-sm-3 text-right control-label col-form-label">Kategori Adı :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="CategoryName" id="fname" placeholder="Kategori Adı Giriniz..." required>
+                        </div>
+                    </div>
+                </div>
+                <div class="border-top">
+                    <div class="card-body">
+                        <button type="submit" class="btn btn-success"><i class="fa fa-plus"></i> Ekle</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

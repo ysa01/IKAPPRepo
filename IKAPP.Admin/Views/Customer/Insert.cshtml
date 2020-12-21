@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewBag.Title = "Insert";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <form class="form-horizontal" action="/Customer/Insert" method="post">
+                <div class="card-body">
+                    <h4 class="card-title">Müşteri Ekleme Sayfası</h4>
+                    <div class="form-group row">
+                        <label for="fname" class="col-sm-3 text-right control-label col-form-label">Adı :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="FirstName" id="fname" placeholder="Adınızı Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lname" class="col-sm-3 text-right control-label col-form-label">Soyadı :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="LastName" id="lname" placeholder="Soyadı Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lname" class="col-sm-3 text-right control-label col-form-label">Telefon :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="Phone" id="lname" placeholder="Telefon Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="email1" class="col-sm-3 text-right control-label col-form-label">Email :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="Email" id="email1" placeholder="Email Adresi Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="cono1" class="col-sm-3 text-right control-label col-form-label">Adres :</label>
+                        <div class="col-sm-9">
+                            <textarea class="form-control" placeholder="Adres Bilgisi Giriniz..." name="Adress" required></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="border-top">
+                    <div class="card-body">
+                        <button type="submit" class="btn btn-success"><i class="fa fa-plus"></i> Ekle</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

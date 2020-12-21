@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+@model IKAPP.DAL.DB.Customer
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <form class="form-horizontal" action="/Customer/Update" method="post">
+                <div class="card-body">
+                    <h4 class="card-title">Müşteri Güncelleme Sayfası</h4>
+                    <input type="text" hidden name="ID" value="@Model.ID" />
+                    <div class="form-group row">
+                        <label for="fname" class="col-sm-3 text-right control-label col-form-label">Adı :</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="FirstName" id="fname" value="@Model.FirstName" placeholder="Adınızı Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lname" class="col-sm-3 text-right control-label col-form-label">Soyadı :</label>
+                        <div class="col-sm-9">
+                            <input type="text" value="@Model.LastName" class="form-control" name="LastName" id="lname" placeholder="Soyadı Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="lname" class="col-sm-3 text-right control-label col-form-label">Telefon :</label>
+                        <div class="col-sm-9">
+                            <input type="text" value="@Model.Phone" class="form-control" name="Phone" id="lname" placeholder="Telefon Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="email1" class="col-sm-3 text-right control-label col-form-label">Email :</label>
+                        <div class="col-sm-9">
+                            <input type="text" value="@Model.Email" class="form-control" name="Email" id="email1" placeholder="Email Adresi Giriniz..." required>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="cono1" class="col-sm-3 text-right control-label col-form-label">Adres :</label>
+                        <div class="col-sm-9">
+                            <textarea class="form-control" placeholder="Adres Bilgisi Giriniz..." name="Adress" required>@Model.Adress</textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="border-top">
+                    <div class="card-body">
+                        <button type="submit" class="btn btn-warning"><i class="fa fa-bell"></i> Güncelle</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

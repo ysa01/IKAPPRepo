@@ -1,0 +1,213 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+    string sonuc;
+    if ((string)TempData["mesaj"] != null && (string)TempData["mesaj"] != "")
+    {
+        sonuc = "İşlem Başarılı";
+    }
+    else
+    {
+        sonuc = "";
+    }
+}
+@model List<IKAPP.DAL.DB.Employee>
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Çalışan Listesi</h5>
+        <button type="button" class="btn btn-success" data-toggle="modal" data-target="#ModalInsert"><i class="fa fa-plus-circle"></i> Çalışan Ekle</button>
+        @if (sonuc == "İşlem Başarılı")
+        {
+            <span class="badge badge-success">@sonuc</span>
+        }
+        else
+        {
+            <span hidden></span>
+        }
+
+        <div class="table-responsive">
+            <table id="zero_config" class="table table-striped table-bordered">
+                <thead>
+                    <tr class="text-center">
+                        <th>Görsel</th>
+                        <th>İsim</th>
+                        <th>Soyisim</th>
+                        <th>Telefon</th>
+                        <th>Email</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="text-center">
+                            <td><img src="@item.ImageURL" height="50" width="50" /></td>
+                            <td>@item.FirstName</td>
+                            <td>@item.LastName</td>
+                            <td>@item.Phone</td>
+                            <td>@item.Email</td>
+                            <td>
+                                <button type="button" data-toggle="modal" data-target="#ModalUpdate" onclick="EmployeeGet(@item.ID)" class="btn btn-warning">Güncelle</button>
+                                @if (item.IsMail == null || item.IsMail == false)
+                                {
+                                    <a href="/Employee/SignUpMail/@item.ID" class="btn btn-info">Kullanıcı Bilgilerini Gönder</a>
+                                }
+                                else
+                                {
+                                    <a href="#" class="btn btn-info disabled">Kullanıcı Bilgilerini Gönder</a>
+                                }
+
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
+
+<div class="modal fade" id="ModalInsert" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-h
+eader">
+                <h5 class="modal-title">Çalışan Ekleme Sayfası</h5>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+            </div>
+            <div class="modal-body">
+                <form action="/Employee/Insert" method="post">
+                    <div class="card-body">
+                        <div class="form-group row">
+                            <label for="fname" class="col-sm-3 text-right control-label col-form-label">Adı :</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" name="FirstName" id="fname" placeholder="Adınızı Giriniz..." required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="lname" class="col-sm-3 text-right control-label col-form-label">Soyadı :</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" name="LastName" id="lname" placeholder="Soyadı Giriniz..." required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="lname" class="col-sm-3 text-right control-label col-form-label">Telefon :</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" name="Phone" id="lname" placeholder="Telefon Giriniz..." required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="email1" class="col-sm-3 text-right control-label col-form-label">Email :</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" name="Email" id="email1" placeholder="Email Adresi Giriniz..." required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="cono1" class="col-sm-3 text-right control-label col-form-label">Adres :</label>
+                            <div class="col-sm-9">
+                                <textarea class="form-control" placeholder="Adres Bilgisi Giriniz..." name="Adress" required></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="border-top">
+                        <div class="card-body">
+                            <button type="submit" class="btn btn-success"><i class="fa fa-plus"></i> Ekle</button>
+                        </div>
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="ModalUpdate" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Çalışan Güncelleme</h5>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">X</button>
+            </div>
+            <div class="modal-body">
+                <form action="/Employee/Update" method="post" enctype="multipart/form-data">
+                    <div class="card-body">
+                        <input type="text" hidden id="ID" name="ID" value="" />
+                        <div class="form-group row">
+                            <label for="fname" class="col-sm-3 text-right control-label col-form-label">Adı :</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" name="FirstName" id="FirstName" value="" placeholder="Adınızı Giriniz..." required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="lname" class="col-sm-3 text-right control-label col-form-label">Soyadı :</label>
+                            <div class="col-sm-9">
+                                <input type="text" value="" class="form-control" name="LastName" id="LastName" placeholder="Soyadı Giriniz..." required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="lname" class="col-sm-3 text-right control-label col-form-label">Telefon :</label>
+                            <div class="col-sm-9">
+                                <input type="text" value="" class="form-control" name="Phone" id="Phone" placeholder="Telefon Giriniz..." required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="email1" class="col-sm-3 text-right control-label col-form-label">Email :</label>
+                            <div class="col-sm-9">
+                                <input type="text" value="" class="form-control" name="Email" id="Email" placeholder="Email Adresi Giriniz..." required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="cono1" class="col-sm-3 text-right control-label col-form-label">Adres :</label>
+                            <div class="col-sm-9">
+                                <textarea class="form-control" placeholder="Adres Bilgisi Giriniz..." name="Adress" id="Adress" required></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-sm-3 text-right control-label col-form-label">Kişi Görseli</label>
+                            <div class="col-sm-9">
+                                <img src="" id="PhotoURL" height="50" width="50" />
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="controls-label">Fotoğraf Seçin :</label>
+                            <label for="imageUpload" name="resim" class="btn btn-warning"><i class="icon icon-camera"></i> Fotoğraf Seçin</label>
+                            <input type="file" name="resim" id="imageUpload" accept="image/*" style="display: none" onchange="funcImageChange(this)" hidden>
+                            <img id="gorsel" src="" style="height:auto;width:50px" />
+
+                        </div>
+
+                    </div>
+                    <div class="border-top">
+                        <div class="card-body">
+                            <button type="submit" class="btn btn-warning"><i class="fa fa-bell"></i> Güncelle</button>
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+@section GR{
+    <script>
+        function funcImageChange(e) {
+            var data = new FormData();
+            data.append("tempres", e.files[0]);
+            $.ajax({
+                url: "/Employee/TempImage",
+                type: "post",
+                data: data,
+                cache: false,
+                processData: false,
+                contentType: false,
+                success: function (e) {
+                    $("#gorsel").attr("src", "/Employee/TempImageShow");
+                }
+            })
+        }
+    </script>
+}
